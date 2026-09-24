@@ -3,16 +3,33 @@
   "version": "1.0.0",
   "description": "面向中文新媒体运营、内容运营、品牌运营的小红书、抖音、微信公众号文案与内容润色插件。",
   "author": {
-    "name": "Local developer"
+    "name": "z100oupan",
+    "url": "https://github.com/z100oupan"
   },
+  "homepage": "https://github.com/z100oupan/new-media-copywriter-pro",
+  "repository": "https://github.com/z100oupan/new-media-copywriter-pro",
+  "keywords": [
+    "new-media",
+    "copywriting",
+    "xiaohongshu",
+    "douyin",
+    "wechat",
+    "content-operations",
+    "codex-plugin"
+  ],
   "skills": "./skills/",
   "interface": {
     "displayName": "新媒体运营文案润色器",
     "shortDescription": "新媒体文案润色、平台改写、标题优化与运营内容生成",
     "longDescription": "面向小红书、抖音、微信公众号及校园、品牌、韩娱、美食等内容场景的新媒体运营文案润色与内容生成 Skill。",
-    "developerName": "Local developer",
+    "developerName": "z100oupan",
     "category": "Productivity",
     "capabilities": [],
-    "defaultPrompt": "使用新媒体运营文案润色器，帮我完成新媒体内容创作、润色和平台改写。"
+    "defaultPrompt": [
+      "用新媒体运营文案润色器，帮我润色这段文案并保留原意。",
+      "帮我写一篇真实自然的小红书探店文案。",
+      "帮我做一份基于真实数据的运营复盘。"
+    ],
+    "brandColor": "#F2545B"
   }
 }
