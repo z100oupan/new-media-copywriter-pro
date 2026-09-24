@@ -1,0 +1,18 @@
+{
+  "name": "new-media-copywriter-pro",
+  "version": "1.0.0",
+  "description": "面向中文新媒体运营、内容运营、品牌运营的小红书、抖音、微信公众号文案与内容润色插件。",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "新媒体运营文案润色器",
+    "shortDescription": "新媒体文案润色、平台改写、标题优化与运营内容生成",
+    "longDescription": "面向小红书、抖音、微信公众号及校园、品牌、韩娱、美食等内容场景的新媒体运营文案润色与内容生成 Skill。",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "使用新媒体运营文案润色器，帮我完成新媒体内容创作、润色和平台改写。"
+  }
+}
